@@ -1,0 +1,14 @@
+.background{
+	background-image: url(../img/sunny-day.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+.kitten{
+	background-image: url(../img/kitten-medium.png);
+	background-size: 40%;
+	background-repeat: no-repeat;
+	background-position: 50%;
+	height: 400px;
+	margin-top: 250px;
+}

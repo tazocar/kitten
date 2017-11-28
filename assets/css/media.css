@@ -1,0 +1,21 @@
+@media (min-width: 500px) and (max-width: 800px){
+	.background{
+		background-image: url(../img/dawn.png);
+    background-position: 50%;
+	}
+  .kitten{
+    background-image: url(../img/kitten-large.png);
+    background-size: 70%; 
+    margin-top: 290px;
+  }
+}
+@media (min-width: 1px) and (max-width: 499px){
+  .background{
+    background-image: url(../img/night.jpg);
+    background-position: 50%;
+  }
+  .kitten{
+    background-image: url(../img/kitten-small.png);
+    margin-top: 25%;
+  }
+}
